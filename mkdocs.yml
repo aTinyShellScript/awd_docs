@@ -1,4 +1,4 @@
-site_name: v2.4 AWD Documentation
+site_name: v2.4 AWD Mod Documentation
 site_url: https://awd.docs.atinyshellscript.com
 site_author: aTinyShellScript
 
@@ -52,7 +52,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Sourcing: sourcing.md
   - Metal Plates: metal_parts.md
   - Printed Plates: printed_parts.md
-  - Shared Parts: shared_parts.md
   - FAQ: faq.md
+  - Contact: contact.md
