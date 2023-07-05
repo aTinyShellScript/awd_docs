@@ -1,6 +1,12 @@
+---
+hide:
+  - navigation
+---
 # A Voron v2.4 AWD Mod
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lp676hJnY2M?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Lp676hJnY2M?start=8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Getting Started
 
@@ -13,9 +19,9 @@ Decide what size steppers you want to use (NEMA14 recommended) and select [Metal
 ### But Why?
 
 * Pros
-    * You will be able to print faster with less vibration.
-        * Having two steppers per belt helps equalizes the stretching that can happen.
-    * Metal (if you go metal) plates help dissipate heat from your steppers, so you can run much higher currents.
+    * You will be able to (probably) print faster with less vibration.
+        * Having two steppers per belt helps equalize the tension on the belt during fast moves.
+    * Metal (if you use them) plates help dissipate heat from your steppers, so you can run much higher currents.
     * For 2WD, you can get rid of those stupid front tensioners that break.
     * Looks cool. Bling is always a good thing.
     * Works with existing XYjoints.
@@ -24,7 +30,7 @@ Decide what size steppers you want to use (NEMA14 recommended) and select [Metal
         * For NEMA14s, you will lose between 15x15mm and 30x30mm of space, depending on the toolhead you use.
         * For NEMA17s, you can expect to lose betweeen 25x25 and 40x40mm of space.
         * For 2WD, you lose no space.
-    * Cost
+    * Cost and complexity
 
 ## Still Have Questions?
 

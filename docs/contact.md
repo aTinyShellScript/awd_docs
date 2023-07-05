@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Have some suggestions, complaints, or something else?
 
 * You can find me on Discord @aTinyShellScript.

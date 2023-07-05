@@ -1,4 +1,4 @@
-site_name: v2.4 AWD Mod Documentation
+site_name: AWD v2.4 Docs
 site_url: https://awd.docs.atinyshellscript.com
 site_author: aTinyShellScript
 
@@ -13,6 +13,8 @@ copyright: Copyright &copy; 2023 aTinyShellScript
 # Config
 theme:
   name: material
+  logo: images/atss.png
+  favicon: images/atss.png
 
   include_search_page: false
   search_index_only: true
@@ -23,37 +25,36 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
     - search.highlight
     - search.suggest
     - toc.follow
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-      primary: atss
-      accent: atss
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb
         name: Switch to light mode
-      default: atss-dark
-      primary: atss-dark
-      accent: atss-dark
+      primary: deep purple
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+      primary: deep purple
   font:
     text: Roboto
     code: Roboto Mono
-  #favicon: assets/favicon.png
-  #logo: assets/images/logotype.svg
   icon:
     logo: logo
+    repo: fontawesome/brands/github
 
 nav:
   - Home: index.md
   - Sourcing: sourcing.md
   - Metal Plates: metal_parts.md
   - Printed Plates: printed_parts.md
+  - Klipper Config: configuration.md
   - FAQ: faq.md
   - Contact: contact.md

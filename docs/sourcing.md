@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Where to Buy the Bits
 
 ## Vendors with Ready to Order Parts
@@ -15,8 +19,8 @@ DXF files are available in the repo. This might be an option if you want to get 
 
 ### Recommended Thicknesses
 
-* A/B and Front Plates: 5052 Aluminum, 0.125"/3.2mm
-* Tensioner Plates: 5052 Aluminum, 0.100"/2.5mm
+* A/B and Front Plates: 5052 Aluminum, 0.125"/~3.2mm
+* Tensioner Plates: 5052 Aluminum, 0.100"/~2.5mm
 
 ### Sources for Laser Cut Parts
 
@@ -28,3 +32,7 @@ DXF files are available in the repo. This might be an option if you want to get 
         * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/pscmspjxyv6z)
 * China
     * [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=3)
+
+## Other Sources
+
+If you've got suggestions for additional vendors, please shoot me a message on [Discord](/contact).

@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Metal ABAB Drives
 
 ## Non-Metal Parts
@@ -20,7 +24,9 @@ The NEMA14 and NEMA17 versions share the same BOM.
 
 ### Assembly
 
-Coming Soon™. Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.
+Coming Soon™. 
+
+Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.
 
 ## Two Wheel Drive
 * Even without adding two extra steppers, you can gain benefits from using metal plates for your AB drives. The increased heatsinking provided will allow you to run higher currents than you could with ABS/ASA parts previously.
@@ -37,4 +43,6 @@ Coming Soon™. Just make sure you put the right plate on the bottom for the rea
 
 ### Assembly
 
-Coming Soon™. Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.
+Coming Soon™. 
+
+Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.

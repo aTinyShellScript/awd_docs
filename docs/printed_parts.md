@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Printed ABAB Drives
 
 This is an available option for those who hate front tensioners or otherwise don't think they need the additional heatsinking provided by metal plates.
