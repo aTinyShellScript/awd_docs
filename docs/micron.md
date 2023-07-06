@@ -9,6 +9,8 @@ An offshoot of the AWD plates, this is just a shrunk down version to allow highe
 
 You can find the repo here: [https://github.com/aTinyShellScript/metal_micron](https://github.com/aTinyShellScript/metal_micron)
 
+![Gantry](images/micron_gantry.png)
+
 ## Printed Parts
 Some bits still have to be printed.
 
