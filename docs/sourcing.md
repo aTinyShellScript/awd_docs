@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-# Where to Buy the Bits
+# What You Need
 
 ## Vendors with Ready to Order Parts
 
@@ -33,6 +33,17 @@ DXF files are available in the repo. This might be an option if you want to get 
 * China
     * [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=3)
 
-## Other Sources
+### Other Sources
 
 If you've got suggestions for additional vendors, please shoot me a message on [Discord](/contact).
+
+## Recommended Steppers
+
+### NEMA14:
+
+* Moons MS14HS5P4200
+* LDO LDO-35STH52-1504AH(VRN)
+
+### NEMA17:
+
+* LDO LDO-42STH48-2504AC

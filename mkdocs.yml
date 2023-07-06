@@ -56,5 +56,6 @@ nav:
   - Metal Plates: metal_parts.md
   - Printed Plates: printed_parts.md
   - Klipper Config: configuration.md
+  - Micron: micron.md
   - FAQ: faq.md
   - Contact: contact.md
