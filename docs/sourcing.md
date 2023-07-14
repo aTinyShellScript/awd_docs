@@ -31,6 +31,9 @@ DXF files are available in the repo. This might be an option if you want to get 
         * [NEMA17 AWD Preconfigured Cart](https://cart.sendcutsend.com/ras3wtuyjylx)
         * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/pscmspjxyv6z)
         * [Micron Metal Preconfigured Cart]()
+* Europe
+    * [LaserBoost (Spain)](http://www.laserboost.com/)
+        * Use 3mm 5754 Aluminum for all parts
 * China
     * [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=3)
 
