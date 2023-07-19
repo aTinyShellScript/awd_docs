@@ -9,7 +9,7 @@ hide:
 * UK
     * [PrintyPlease](https://www.printyplease.uk/2.4awd)
 * EU
-    * Coming Soon™
+    * Coming Soon™ (Late July)
 * US
     * Coming Soon™
 
@@ -34,6 +34,8 @@ DXF files are available in the repo. This might be an option if you want to get 
 * Europe
     * [LaserBoost (Spain)](http://www.laserboost.com/)
         * Use 3mm 5754 Aluminum for all parts
+    * [LaserTeileOnline (Germany)](https://laserteileonline.de/)
+        * Use 3mm ALMG3 Aluminum for all parts
 * China
     * [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=3)
 
