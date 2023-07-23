@@ -2,9 +2,22 @@
 hide:
   - navigation
 ---
-# Configuration in Klipper
+# Setup and Configuration
 
-## Changes needed
+## Bearing Idler Stacks
+
+![Idler Locations](images/Idler_Locations.png)
+
+## Belt Pathing
+
+The belt pathing is swapped compared to a stock v2.4. This is to keep compatibility with stock and aftermarket XY-joints. 
+
+ * Your A Stepper (Back-Right) will be on the lower belt and the B Stepper (Back-Left) will be on the upper belt. 
+ * This means the Front-Left Stepper will be on the lower belt and the Front-Right Stepper will be on the upper belt.
+
+## Configuration in Klipper
+
+### Changes needed
 
 * Config in Klipper is straight-forward as you're just adding an additional stepper for X and Y. I named them `Stepper_X1` and `Stepper_Y1`. Very creative, I know.
 
@@ -12,7 +25,7 @@ hide:
 
 * Carefully test to determine how much of an exclusion zone you'll need to set in your slicer for each of the front corners if using AWD.
 
-## Config Reference
+### Config Reference
 
 * The configuration for the test printer with AWD can be found in my backup repo here: [config/steppers_xy.cfg](https://github.com/aTinyShellScript/AWDoom_Klipper_Backup/blob/master/config/steppers_xy.cfg)
 
