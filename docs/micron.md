@@ -5,7 +5,9 @@ hide:
 
 # Micron Metal AB Drives
 
-An offshoot of the AWD plates, this is just a shrunk down version to allow higher current to be run on Microns. Very much a work-in-progress.
+** NOTE: These are still in testing and will probably kick your dog and light your house on fire. __Don't get them cut yet.__ **
+
+An offshoot of the AWD plates, this is just a shrunk down version to allow higher current to be run on Microns.
 
 You can find the repo here: [https://github.com/aTinyShellScript/metal_micron](https://github.com/aTinyShellScript/metal_micron)
 

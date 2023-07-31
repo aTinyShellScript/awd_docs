@@ -24,9 +24,9 @@ The NEMA14 and NEMA17 versions share the same BOM.
 
 ### Assembly
 
-Coming Soon™. 
+Use the CAD for info on how to assemble.
 
-Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.
+Just make sure you put the correct plate (with M5 and M3 holes for the side extrusion) on the bottom for the rear AB drives, it's important otherwise it won't fit.
 
 ## Two Wheel Drive
 * Even without adding two extra steppers, you can gain benefits from using metal plates for your AB drives. The increased heatsinking provided will allow you to run higher currents than you could with ABS/ASA parts previously.
@@ -42,7 +42,10 @@ Just make sure you put the right plate on the bottom for the rear AB drives, it'
     * 8x M3x30mm
 
 ### Assembly
+2WD setups need to keep the stock Voron belt path and not the flipped belt path of the AWD version that is shown in the CAD. See the image below for the correct orientation of the pulleys and tensioner parts.
 
-Coming Soon™. 
+![2WD Gantry Orientation](images/2wd_gantry.png)
 
-Just make sure you put the right plate on the bottom for the rear AB drives, it's important otherwise it won't fit.
+Use the CAD for info on how to assemble.
+
+Just make sure you put the correct plate (with M5 and M3 holes for the side extrusion) on the bottom for the rear AB drives, it's important otherwise it won't fit.
