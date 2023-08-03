@@ -5,7 +5,7 @@ hide:
 
 # Micron Metal AB Drives
 
-** NOTE: These are still in testing and will probably kick your dog and light your house on fire. __Don't get them cut yet.__ **
+NOTE: These are still in testing and will probably kick your dog and light your house on fire. __Don't get them cut yet.__
 
 An offshoot of the AWD plates, this is just a shrunk down version to allow higher current to be run on Microns.
 
@@ -14,7 +14,7 @@ You can find the repo here: [https://github.com/aTinyShellScript/metal_micron](h
 ![Gantry](images/micron_gantry.png)
 
 ## Printed Parts
-Some bits still have to be printed.
+You need to print all the bits in the STL folder.
 
 ## BOM
     * 2x M5x20mm
@@ -25,4 +25,4 @@ Some bits still have to be printed.
 
 ## Assembly
 
-Coming Soon™
+Coming Soon™ (Nah, just look at the CAD)
