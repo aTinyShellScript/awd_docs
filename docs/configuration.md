@@ -8,12 +8,16 @@ hide:
 
 ![Idler Locations](images/Idler_Locations.png)
 
-## Belt Pathing
+## AWD Belt Pathing
 
-The belt pathing is swapped compared to a stock v2.4. This is to keep compatibility with stock and aftermarket XY-joints. 
+The belt pathing for AWD is swapped compared to a stock v2.4. This is to keep compatibility with stock and aftermarket XY-joints. 
 
  * Your A Stepper (Back-Right) will be on the lower belt and the B Stepper (Back-Left) will be on the upper belt. 
  * This means the Front-Left Stepper will be on the lower belt and the Front-Right Stepper will be on the upper belt.
+
+## 2WD Belt Pathing
+
+The belt path is identical to the stock voron path for a 2WD setup.
 
 ## Configuration in Klipper
 
