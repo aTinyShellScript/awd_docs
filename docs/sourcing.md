@@ -35,7 +35,7 @@ Micron Parts:
         * [NEMA14 2WD Preconfigured Cart](https://cart.sendcutsend.com/4cno7qczjzug)
         * [NEMA17 AWD Preconfigured Cart](https://cart.sendcutsend.com/ras3wtuyjylx)
         * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/pscmspjxyv6z)
-        * [Micron Metal (Tapped) COMING SOOOOON, I SUCK AT UPLOADING THE RIGHT PARTS]()
+        * [Micron Metal (Tapped) Preconfigured Cart](https://cart.sendcutsend.com/7yib4xzr3sck)
         * [Micron Metal (Untapped) Preconfigured Cart](https://cart.sendcutsend.com/nbdvztblscxh)
 * Europe
     * [LaserBoost (Spain)](http://www.laserboost.com/)

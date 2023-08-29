@@ -4,11 +4,7 @@ hide:
 ---
 
 # Micron Metal AB Drives
-__Get these made at your own risk!__
-
-NOTE: These are still in testing and will probably kick your dog and light your house on fire. 
-
-__Get these made at your own risk!__
+Consider these in BETA and not thouroughly tested. So still get cut at your own risk.
 
 An offshoot of the AWD plates, this is just a shrunk down version to allow higher current to be run on Microns.
 
