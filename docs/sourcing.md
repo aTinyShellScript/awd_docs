@@ -9,7 +9,7 @@ hide:
 * UK
     * [PrintyPlease](https://www.printyplease.uk/2.4awd)
 * EU
-    * Coming Soon™ (Late July)
+    * Coming Soon™
 * US
     * Coming Soon™
 
@@ -20,10 +20,12 @@ DXF files are available in the repo. This might be an option if you want to get 
 ### Recommended Thicknesses
 
 v2.4 Parts:
+
   * A/B and Front Plates: 5052 Aluminum, 0.125"/~3.2mm
   * Tensioner Plates: 5052 Aluminum, 0.100"/~2.5mm
 
 Micron Parts:
+
   * AB and Idler Plates: 5052 Aluminum, 0.100"/~2.5mm
   * Spacers, 1.5mm anything
 
@@ -51,11 +53,11 @@ If you've got suggestions for additional vendors, please shoot me a message on [
 
 ## Recommended Steppers
 
-### NEMA14:
+### NEMA14
 
 * Moons MS14HS5P4200
 * LDO LDO-35STH52-1504AH(VRN)
 
-### NEMA17:
+### NEMA17
 
 * LDO LDO-42STH48-2504AC

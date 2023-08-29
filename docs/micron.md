@@ -16,18 +16,21 @@ You can find the repo here: [https://github.com/aTinyShellScript/metal_micron](h
 You need to print all the bits in the root of the STL folder.
 
 If you want to try out the Rigid Z Carriages:
-- They are in the Optional folder in the STL folder.
-- You'll need 8x M3x16 bolts and 8x M3 washers.
+
+  - They are in the Optional folder in the STL folder.
+  - You'll need 8x M3x16 bolts and 8x M3 washers.
 
 If you want to use the stock micron z-carriages:
-- Print 8x of the 'Z_Tension_Clamps'.
+  - Print 8x of the 'Z_Tension_Clamps'.
 
 ## Metal Parts
 
 The tested version of the mod uses 0.100"/2.54mm thick 5052 plates for most parts and 0.059"/1.5mm thick steel for the spacers. Steel was used since it was the only option for 1.5mm thickness.
-- Saved Carts on SendCutSend for both the Tapped and Untapped versions are on the [Sourcing] page.
-  - Tapped will require you to tap 12 m3 holes. Two in each AB plate and 1 in each idler.
-  - Untapped will require a nylock nut to retain the bearing bolts.
+
+- Saved Carts on SendCutSend for both the Tapped and Untapped versions are on the [Sourcing](/sourcing) page.
+    - Tapped will require you to tap 12 m3 holes. Two in each AB plate and 1 in each idler.
+    - Untapped will require a nylock nut to retain the bearing bolts.
+
 - DXFs are available [here](https://github.com/aTinyShellScript/metal_micron/blob/main/DXF) if you want to use another manufacturer or cut them yourself.
 
 ## BOM
