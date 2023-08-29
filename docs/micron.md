@@ -17,22 +17,32 @@ You can find the repo here: [https://github.com/aTinyShellScript/metal_micron](h
 ![Gantry](images/micron_gantry.png)
 
 ## Printed Parts
-You need to print all the bits in the STL folder.
+You need to print all the bits in the root of the STL folder.
 
-## Metal Part Choices
+If you want to try out the Rigid Z Carriages:
+- They are in the Optional folder in the STL folder.
+- You'll need 8x M3x16 bolts and 8x M3 washers.
 
-- The 'stock' version uses ~3.2mm 5052 thick plates and printed z-belt retention pieces.
-  - Alternatively, you can get these cut from 0.100"/2.54mm 5052 from SCS and have the belt retention pieces cut into the plates.
-  - You can find the DXFs for these pieces [here](https://github.com/aTinyShellScript/metal_micron/blob/main/DXF/Optional%20Alternative%20Parts/2.54mm_AB_Plate_Belt_Retention_%5Bx4%5D.dxf).
-- 'Stock' also uses 1.5mm printed spacers to get to 18mm in between the plates to match the printed pieces.
-  - Alternatively, you can get the [spacers](https://github.com/aTinyShellScript/metal_micron/blob/main/DXF/Optional%20Alternative%20Parts/Plate_Spacers_%5Bx12%5D.dxf) cut from 0.063"/1.6mm 5052 and just accept the 0.2mm of extra space that should go away when tightening down the fastners.
+If you want to use the stock micron z-carriages:
+- Print 8x of the 'Z_Tension_Clamps'.
+
+## Metal Parts
+
+The tested version of the mod uses 0.100"/2.54mm thick 5052 plates for most parts and 0.059"/1.5mm thick steel for the spacers. Steel was used since it was the only option for 1.5mm thickness.
+- Saved Carts on SendCutSend for both the Tapped and Untapped versions are on the [Sourcing] page.
+  - Tapped will require you to tap 12 m3 holes. Two in each AB plate and 1 in each idler.
+  - Untapped will require a nylock nut to retain the bearing bolts.
+- DXFs are available [here](https://github.com/aTinyShellScript/metal_micron/blob/main/DXF) if you want to use another manufacturer or cut them yourself.
 
 ## BOM
     * 2x M5x20mm
     * 2x M5 Nuts
     * 14x M3x30mm
     * 24x M3x12mm
-    * 6x M3 Nuts
+    * All stock bearings and shims
+
+## Untapped BOM additions
+    * 6x M3 Nuts (nylok)
 
 ## Assembly
 
