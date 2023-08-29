@@ -21,13 +21,13 @@ Decide what size steppers you want to use (NEMA14 recommended) and select [Metal
 * Pros
     * You will be able to (probably) print faster with less vibration.
         * Having two steppers per belt helps equalize the tension on the belt during fast moves.
-    * Metal (if you use them) plates help dissipate heat from your steppers, so you can run much higher currents.
+    * Metal (if you use them) plates help dissipate heat from your steppers, so you can run higher currents.
     * For 2WD, you can get rid of those stupid front tensioners that break.
     * Looks cool. Bling is always a good thing.
     * Works with existing XYjoints.
 * Cons
     * If modifying an existing printer (or building from BOM or a Kit) you will lose a small amount of bed space.
-        * For NEMA14s, you will lose between 15x15mm and 30x30mm of space, depending on the toolhead you use.
+        * For NEMA14s, you will lose between 10x10mm and 20x20mm of space, depending on the toolhead you use.
         * For NEMA17s, you can expect to lose betweeen 25x25 and 40x40mm of space.
         * For 2WD, you lose no space.
     * Cost and complexity

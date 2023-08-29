@@ -4,9 +4,15 @@ hide:
 ---
 # Setup and Configuration
 
-## Bearing Idler Stacks
+## NEMA14 Bearing Idler Stacks
 
-![Idler Locations](images/Idler_Locations.png)
+![NEMA14 Idler Locations](images/Idler_Locations_14.png)
+
+## NEMA17 Bearing Idler Stacks
+
+These are also the idler locations for the original NEMA14 plates.
+
+![NEMA17 Idler Locations](images/Idler_Locations_17.png)
 
 ## AWD Belt Pathing
 

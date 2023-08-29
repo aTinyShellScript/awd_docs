@@ -21,12 +21,12 @@ DXF files are available in the repo. This might be an option if you want to get 
 
 v2.4 Parts:
 
-  * A/B and Front Plates: 5052 Aluminum, 0.125"/~3.2mm
+  * Rear and Front Plates: 5052 Aluminum, 0.125"/~3.2mm
   * Tensioner Plates: 5052 Aluminum, 0.100"/~2.5mm
 
 Micron Parts:
 
-  * AB and Idler Plates: 5052 Aluminum, 0.100"/~2.5mm
+  * Rear and Idler Plates: 5052 Aluminum, 0.100"/~2.5mm
   * Spacers, 1.5mm anything
 
 ### Sources for Laser Cut Parts
@@ -34,7 +34,6 @@ Micron Parts:
 * US
     * [SendCutSend](https://sendcutsend.com)
         * [NEMA14 AWD Preconfigured Cart](https://cart.sendcutsend.com/ayr0sjczgpci)
-        * [NEMA14 2WD Preconfigured Cart](https://cart.sendcutsend.com/4cno7qczjzug)
         * [NEMA17 AWD Preconfigured Cart](https://cart.sendcutsend.com/ras3wtuyjylx)
         * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/pscmspjxyv6z)
         * [Micron Metal (Tapped) Preconfigured Cart](https://cart.sendcutsend.com/7yib4xzr3sck)
