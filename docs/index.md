@@ -16,6 +16,11 @@ Decide what size steppers you want to use (NEMA14 recommended) and select [Metal
 
 ![Gantry](images/Gantry.png)
 
+Visualization of space lost with NEMA14s with Xol toolhead on a 350mm bed.
+
+![Bed Space Loss](images/nema14_xol_350bed.png)
+<sub><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image Credit: @.skeebo on Armchair Engineering Discord</sub></sup>
+
 ### But Why?
 
 * Pros
@@ -28,6 +33,7 @@ Decide what size steppers you want to use (NEMA14 recommended) and select [Metal
 * Cons
     * If modifying an existing printer (or building from BOM or a Kit) you will lose a small amount of bed space.
         * For NEMA14s, you will lose between 10x10mm and 20x20mm of space, depending on the toolhead you use.
+            * For the original NEMA14 plates (and Funssor CNC plates) this is more like 20x20 to 30x30.
         * For NEMA17s, you can expect to lose betweeen 25x25 and 40x40mm of space.
         * For 2WD, you lose no space.
     * Cost and complexity

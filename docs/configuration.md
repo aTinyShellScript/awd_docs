@@ -10,7 +10,7 @@ hide:
 
 ## NEMA17 Bearing Idler Stacks
 
-These are also the idler locations for the original NEMA14 plates.
+These are also the idler locations for the original NEMA14 (and Funssor CNC plates) plates.
 
 ![NEMA17 Idler Locations](images/Idler_Locations_17.png)
 
