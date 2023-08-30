@@ -24,7 +24,7 @@ DXF files are available in the repo. This might be an option if you want to get 
 v2.4 Parts:
 
   * Rear and Front Plates: 5052 Aluminum, 0.125"/~3.2mm
-  * Tensioner Plates: 5052 Aluminum, 0.100"/~2.5mm
+  * Tensioner Plates: 5052 Aluminum, 0.125"/~3.2mm
 
 Micron Parts:
 
@@ -35,9 +35,9 @@ Micron Parts:
 
 * US
     * [SendCutSend](https://sendcutsend.com)
-        * [NEMA14 AWD Preconfigured Cart](https://cart.sendcutsend.com/ayr0sjczgpci)
-        * [NEMA17 AWD Preconfigured Cart](https://cart.sendcutsend.com/ras3wtuyjylx)
-        * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/pscmspjxyv6z)
+        * [NEMA14 AWD Preconfigured Cart](https://cart.sendcutsend.com/mxfvmnea4pbt)
+        * [NEMA17 AWD Preconfigured Cart](https://cart.sendcutsend.com/ttqjs0dfdezz)
+        * [NEMA17 2WD Preconfigured Cart](https://cart.sendcutsend.com/zpxyukvw89x5)
         * [Micron Metal (Tapped) Preconfigured Cart](https://cart.sendcutsend.com/7yib4xzr3sck)
         * [Micron Metal (Untapped) Preconfigured Cart](https://cart.sendcutsend.com/nbdvztblscxh)
 * Europe
