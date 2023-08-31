@@ -9,7 +9,7 @@ hide:
 * UK
     * [PrintyPlease](https://www.printyplease.uk/2.4awd)
 * EU
-    * Coming Soon™
+    * [Alchemy3D](https://alchemy3d.de/products/voron-v2-4-nema17-awd-mod-by-tinyshellscript)
 * US
     * Coming Soon™
 * China
