@@ -7,6 +7,9 @@ hide:
 * Are there any big changes besides the obvious?
     * Yes, your rear AB motors will change which belt they're connected to. This is to keep compatibility with stock XYjoints. (This is not true of 2WD)
 
+* Can I use these plates on my Trident?
+    * You shouldn't. @fuffledag is working on a remix for the Trident and you can find more on that in the 'Trident AWD' user thread on the Armchair Engineering Discord.
+
 * Who actually needs to do this?
     * People who are sad they didn't build an Annex printer or otherwise hate money.
 

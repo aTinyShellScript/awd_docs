@@ -15,6 +15,7 @@ theme:
   name: material
   logo: images/atss.png
   favicon: images/atss.png
+  custom_dir: overrides
 
   include_search_page: false
   search_index_only: true
