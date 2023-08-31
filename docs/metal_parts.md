@@ -8,6 +8,7 @@ hide:
 Some bits still have to be printed.
 
 * The printed parts are listed in the STL directory of the GitHub repo under either [STL/NEMA14/MetalPlates](https://github.com/aTinyShellScript/v2.4_AWD/tree/main/STLs/NEMA14/MetalPlates) or [STL/NEMA17/MetalPlates](https://github.com/aTinyShellScript/v2.4_AWD/tree/main/STLs/NEMA17/MetalPlates) depending on your stepper size. 
+* If your Rear Plates aren't all identical, you'll need to print the 'v1 Plate' parts in the MetalPlates folder.
 * For 2WD, you do not need the 'FrontMidBody' parts but you need two additional '10mmSpacer'. 
     * Unless using [DoubleT pins](https://www.aliexpress.us/item/3256805681511344.html).
 
