@@ -4,6 +4,15 @@ hide:
 ---
 # Setup and Configuration
 
+## Tensioning
+
+1. Loosen the 4 stepper mounting bolts slightly so the whole tensioner can move freely and move it to the slackest setting.
+      - If you do not loosen them enough, you WILL bow the tensioner plate.
+2. Ensure the belts are well secured and tensioned equally at the toolhead.
+      - Your belts should be equal in length and have the same amount of teeth sticking out past the toolhead.
+3. Turn the M5 bolt clockwise to increase tension to desired amount.
+4. Tighten the 4 stepper mounting bolts before testing.
+
 ## NEMA14 Bearing Idler Stacks
 
 ![NEMA14 Idler Locations](images/Idler_Locations_14.png)
